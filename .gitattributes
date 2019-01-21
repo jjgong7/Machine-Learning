@@ -1,0 +1,7 @@
+*.ipynb linguist-language=Python
+*.sql linguist-detectable=true
+
+# Vendored code
+**/ABAGAIL/* linguist-vendored
+
+**/BURLAP/* linguist-vendored
