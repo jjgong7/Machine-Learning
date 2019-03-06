@@ -1,6 +1,8 @@
 # Supervised Learning
 
-Supervised Learning algorithms in WEKA GUI 3.8.2 are used to generate the output for the analysis. The step-by-step instructions to produce the output is listed in WekaInstructions.pdf. Training, validation, and test accuracy from WEKA is inputted in Excel and learning curves are generated in Excel. See Analysis.pdf for analysis of output/results.
+**Objective:** Analyze five different supervised learning algorithms – Decision Trees, Boosting, Neural Networks, Support Vector Machines, and k-Nearest Neighbors on two different datasets. 
+
+WEKA GUI 3.8.2, a suite of machine learning software written in Java, is used to generate the output for the analysis. The step-by-step instructions to produce the output is listed in WekaInstructions.pdf. Training, validation, and test accuracy from WEKA is inputted in Excel and learning curves are generated in Excel. See Analysis.pdf for analysis of output/results.
 
 ### Files:
 1. [Analysis.pdf](Analysis.pdf)
