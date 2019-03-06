@@ -1,5 +1,12 @@
 # Unsupervised Learning and Dimensionality Reduction
 
+**Objective:**  
+Six different algorithms are implemented; the first two are clustering – k-means clustering and Expectation Maximization and the last four are dimensionality reduction algorithms – PCA, ICA, Randomized Projections, and Random Forest. The experiments are split into four main parts and used to train a Neural Network. All algorithms are evaluated using Scikit-learn in Python.
+
+**Datasets:**  
+1. [Faulty Steel Plates](http://archive.ics.uci.edu/ml/datasets/steel+plates+faults) (1,941 instances, 27 attributes, 7 labels)
+2. [Breast Cancer](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) (569 instances, 31 attributes, binary label)
+
 ### Files:
 1. [Analysis.pdf](Analysis.pdf)
     * Unsupervised Learning and Dimensionality Reduction Analysis
